@@ -1,4 +1,4 @@
-aiogram==2.25.1
+aiogram==2.25.2
 python-dotenv
 aiohttp
 apscheduler
@@ -6,4 +6,4 @@ Flask==2.2.5
 Flask-Admin==1.6.1
 Flask-SQLAlchemy
 psycopg2-binary	
-aiogram<3.0.0
+Flask-BasicAuth==0.2.0
